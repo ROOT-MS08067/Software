@@ -1,0 +1,4 @@
+第一步：执行git pull origin 命令将GitHub上的代码当下来合并代码，防止提交新代码的时候起冲突
+第二步：执行git add Maikr.zip 命令将代码添加到仓库
+第三步：执行git commit -m "googleVPN" 命令将代码提交到仓库
+第四步：执行git push -u origin master 命令将代码提交到GitHub
